@@ -1,1 +1,2 @@
-# major
+An AI-powered CCTV system designed to enhance surveillance capabilities through real-time video analytics. This intelligent system uses advanced machine learning algorithms and computer vision to monitor crowd behavior, detect potential criminal activity, and optimize workplace safety and productivity. Key features include automatic crowd density analysis, facial and object recognition, unusual activity detection, and employee workflow tracking. By integrating AI with CCTV, organizations can respond proactively to threats, improve operational efficiency, and ensure a safer environment in public, commercial, and industrial spaces.
+
